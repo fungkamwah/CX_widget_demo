@@ -1,5 +1,3 @@
-# CX_widget_demo
-Android上手练习10.常用组件
 ## 1 Fragment
 如果说一般认为Activity为界面组件的话，那么Fragment就是子界面的组件。
 
@@ -243,8 +241,8 @@ public class GridFragment extends Fragment {
 
 一个Activity中管理3个Fragment，运行效果。
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-160359.png)
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-160533.png)
+![image](http://youdao.mikezz.cn/QQ20190322-160359.png-wardo)
+![image](http://youdao.mikezz.cn/QQ20190322-160533.png-wardo)
 
 ## 2 Banner（ViewPager实现）
 
@@ -567,7 +565,7 @@ item_list.xml
 
 运行效果。
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-171621.png)
+![image](http://youdao.mikezz.cn/QQ20190322-171621.png-wardo)
 
 ## 4 RecyclerView 实现Grid网格
 
@@ -710,4 +708,4 @@ item_grid.xml
 
 运行效果。
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190322-173508.png)
+![image](http://youdao.mikezz.cn/QQ20190322-173508.png-wardo)
